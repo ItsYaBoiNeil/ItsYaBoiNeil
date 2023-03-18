@@ -37,7 +37,3 @@
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=ItsYaBoiNeil&theme=github"/>
 </div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
