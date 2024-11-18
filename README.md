@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Neil Pandit!</h1>
-<h3 align="center">A newbie into the world of programming!</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=91in8z8o7kg9n9s0h3niwuwey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=559daa&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
